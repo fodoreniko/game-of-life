@@ -1,5 +1,3 @@
-# javafx-game-starter-jdk17
-
-Basic JavaFX starter project that draws graphics on a canvas, based on JDK 17.
+# game of life
 
 Run the application with `./gradlew run`.
